@@ -1,0 +1,7 @@
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\bin\Debug\Resturant App.exe.config
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\bin\Debug\Resturant App.exe
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\bin\Debug\Resturant App.pdb
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\obj\Debug\Resturant App.csprojResolveAssemblyReference.cache
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\obj\Debug\Resturant App.csproj.CoreCompileInputs.cache
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\obj\Debug\Resturant App.exe
+C:\Users\tedan.hu\source\repos\Resturant App\Resturant App\obj\Debug\Resturant App.pdb
